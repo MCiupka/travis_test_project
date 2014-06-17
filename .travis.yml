@@ -4,5 +4,7 @@
     "5.4", 
     "5.3"
   ], 
-  "language": "php"
+  "language": "php", 
+  "install": "/bin/true", 
+  "script": "/bin/true"
 }
