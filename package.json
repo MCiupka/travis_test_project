@@ -1,7 +1,7 @@
 [
     {
-        scripts: {
-            test: "grunt test"
+        "scripts": {
+            "test": "grunt test"
         }
     }
 ]
