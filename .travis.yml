@@ -1,9 +1,3 @@
-{
-  "before_script": "grunt build", 
-  "language": "node_js", 
-  "before_install": "npm install -g grunt-cli", 
-  "node_js": [
-    "0.8"
-  ], 
-  "install": "npm install"
-}
+language: node_js
+node_js:
+  - "0.10"
